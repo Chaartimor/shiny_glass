@@ -1,0 +1,1 @@
+La classification supervisée ne fait ressortir que **3** groupes d'individus, alors que **6** étaient présents dans le jeu de données initial. Ceci renforce l'intuition de possibles erreurs de prédiction.

@@ -1,0 +1,1 @@
+On observe ici que notre jeu de données est déséquilibré, les types de verres **1** et **2** sont sur-représentés par rapport aux autres classes.

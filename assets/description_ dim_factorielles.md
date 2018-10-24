@@ -1,0 +1,1 @@
+Les deux premières dimensions de l'ACP représentent elles seules presque 51% de la variabilité du jeu de données.

@@ -1,0 +1,1 @@
+On peut voire ici que la majorité des groupes se recoupent, on s'attend donc à ce que lors de la construction des modèles il y ait des confusions entre deux classes (pour les classes **1** et **3** par exemple)
