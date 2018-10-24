@@ -1,6 +1,12 @@
 # Projet Shiny Classification de Verres
 
+*M2 Data science - Agrocampus Ouest*
+
 **Auteurs** : Antoine, Morgan, Anh
+
+ - [Antoine](https://github.com/Chaartimor)
+ - Morgane
+ - [Anh](https://github.com/phineas-pta)
 
 ---
 
