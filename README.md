@@ -5,7 +5,7 @@
 **Auteurs** : Antoine, Morgan, Anh
 
  - [Antoine](https://github.com/Chaartimor)
- - Morgane
+ - [Morgan](https://github.com/mguillaudeux)
  - [Anh](https://github.com/phineas-pta)
 
 ---
