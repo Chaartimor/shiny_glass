@@ -40,7 +40,7 @@ glassHCPC <- HCPC(glassACP, nb.clust = -1, graph = FALSE) # classif automatique
 # machine learning
 
 # cluster
-grappe <- makeCluster(detectCores(logical = TRUE)) # cœurs physiques réels
+grappe <- makeCluster(detectCores(logical = FALSE)) # cœurs physiques réels
 registerDoParallel(grappe) # lancer le cluster
 
 # préliminaires
